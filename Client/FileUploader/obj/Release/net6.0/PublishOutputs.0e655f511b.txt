@@ -1,0 +1,5 @@
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\FileUploader.exe
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\FileUploader.dll
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\FileUploader.deps.json
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\FileUploader.runtimeconfig.json
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\FileUploader.pdb

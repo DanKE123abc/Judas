@@ -1,0 +1,5 @@
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\JudasShell.exe
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\JudasShell.dll
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\JudasShell.deps.json
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\JudasShell.runtimeconfig.json
+C:\Users\15860\Documents\Judas\publish\JudasClient\Judas\JudasShell.pdb

@@ -1,0 +1,5 @@
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\JudasClient.exe
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\JudasClient.dll
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\JudasClient.deps.json
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\JudasClient.runtimeconfig.json
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\JudasClient.pdb

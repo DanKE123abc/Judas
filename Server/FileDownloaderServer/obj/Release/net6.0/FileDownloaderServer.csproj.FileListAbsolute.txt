@@ -1,0 +1,14 @@
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\bin\Release\net6.0\FileDownloaderServer.exe
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\bin\Release\net6.0\FileDownloaderServer.deps.json
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\bin\Release\net6.0\FileDownloaderServer.runtimeconfig.json
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\bin\Release\net6.0\FileDownloaderServer.dll
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\bin\Release\net6.0\FileDownloaderServer.pdb
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\FileDownloaderServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\FileDownloaderServer.AssemblyInfoInputs.cache
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\FileDownloaderServer.AssemblyInfo.cs
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\FileDownloaderServer.csproj.CoreCompileInputs.cache
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\FileDownloaderServer.dll
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\refint\FileDownloaderServer.dll
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\FileDownloaderServer.pdb
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\FileDownloaderServer.genruntimeconfig.cache
+C:\Users\15860\OneDrive\Judas\FileDownloaderServer\obj\Release\net6.0\ref\FileDownloaderServer.dll

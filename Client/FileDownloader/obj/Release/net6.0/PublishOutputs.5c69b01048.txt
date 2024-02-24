@@ -1,0 +1,5 @@
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\FileDownloader.exe
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\FileDownloader.dll
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\FileDownloader.deps.json
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\FileDownloader.runtimeconfig.json
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\FileDownloader.pdb

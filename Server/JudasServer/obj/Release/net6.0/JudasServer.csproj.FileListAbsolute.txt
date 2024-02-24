@@ -1,0 +1,14 @@
+C:\Users\15860\OneDrive\Judas\JudasServer\bin\Release\net6.0\JudasServer.exe
+C:\Users\15860\OneDrive\Judas\JudasServer\bin\Release\net6.0\JudasServer.deps.json
+C:\Users\15860\OneDrive\Judas\JudasServer\bin\Release\net6.0\JudasServer.runtimeconfig.json
+C:\Users\15860\OneDrive\Judas\JudasServer\bin\Release\net6.0\JudasServer.dll
+C:\Users\15860\OneDrive\Judas\JudasServer\bin\Release\net6.0\JudasServer.pdb
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\JudasServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\JudasServer.AssemblyInfoInputs.cache
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\JudasServer.AssemblyInfo.cs
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\JudasServer.csproj.CoreCompileInputs.cache
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\JudasServer.dll
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\refint\JudasServer.dll
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\JudasServer.pdb
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\JudasServer.genruntimeconfig.cache
+C:\Users\15860\OneDrive\Judas\JudasServer\obj\Release\net6.0\ref\JudasServer.dll

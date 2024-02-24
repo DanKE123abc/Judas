@@ -1,0 +1,10 @@
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\Screenshot.exe
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\Screenshot.dll
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\Screenshot.deps.json
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\Screenshot.runtimeconfig.json
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\Screenshot.pdb
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\Microsoft.Win32.SystemEvents.dll
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\System.Drawing.Common.dll
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\15860\OneDrive\Judas\publish\JudasClient\Judas\runtimes\win\lib\net6.0\System.Drawing.Common.dll
